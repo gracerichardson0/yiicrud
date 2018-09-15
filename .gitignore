@@ -34,3 +34,6 @@ tests/_support/_generated
 
 #ignore folder named 'config'
 /.config
+
+#vs files
+.vs
