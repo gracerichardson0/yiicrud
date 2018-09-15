@@ -32,8 +32,8 @@ tests/_support/_generated
 #vagrant folder
 /.vagrant
 
-#ignore folder named 'config'
-/.config
+#ignore db
+db.php
 
 #vs files
 .vs
